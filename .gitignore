@@ -43,6 +43,6 @@ Temporary Items
 .apdisk
 
 bower-components/*
-bower-components/**
+bower-components/**/*
 
 bower.json
