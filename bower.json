@@ -1,0 +1,20 @@
+{
+  "name": "dependencies",
+  "version": "0.0.1",
+  "homepage": "https://github.com/devsignmy/materilex",
+  "authors": [
+    "Nizul Zaim <shimizukazunari93@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "webcomponentsjs": "~0.7.3",
+    "jquery": "~2.1.4"
+  }
+}
